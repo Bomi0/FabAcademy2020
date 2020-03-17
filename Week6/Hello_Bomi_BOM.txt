@@ -1,0 +1,11 @@
+Part Value           Device               Package    Description          
+C1   1UF             CAP-US1206FAB        C1206FAB                        
+IC1  ATTINY44-SSU    ATTINY44-SSU         SOIC14                          
+R1   10K             RES-US1206FAB        R1206FAB   Resistor (US Symbol) 
+R2   100             RES-US1206FAB        R1206FAB   Resistor (US Symbol) 
+R3   10K             RES-US1206FAB        R1206FAB   Resistor (US Symbol) 
+S1                   6MM_SWITCH6MM_SWITCH 6MM_SWITCH OMRON SWITCH         
+U$1  AVRISPSMD       AVRISPSMD            2X03SMD                         
+U$2  RESONATOR       RESONATOR            EFOBM                           
+U$3  FTDI-SMD-HEADER FTDI-SMD-HEADER      1X06SMD                         
+U$4  LED             LEDFAB1206           LED1206FAB LED                  
